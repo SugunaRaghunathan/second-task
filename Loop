@@ -1,0 +1,5 @@
+For Loop:
+var arr =[22,23,24,25]
+for(i=0;i<25;i++){
+    console.log(i);
+}
